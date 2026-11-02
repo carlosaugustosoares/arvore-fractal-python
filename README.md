@@ -6,7 +6,7 @@ A aplicação gera uma estrutura de ramificações progressivamente menores, exp
 
 ## 📸 Demonstração
 
-![Árvore Fractal](assets/Árvore_Fractal.png)
+![Árvore Fractal](Árvore_Fractal.png)
 
 ## 🎯 Objetivo
 
@@ -56,8 +56,7 @@ arvore-fractal-python/
 ├── README.md
 ├── arvore_fractal.py
 │
-└── assets/
-    └── arvore_fractal.png
+└── arvore_fractal.png
 ```
 
 ## 🚀 Como executar
