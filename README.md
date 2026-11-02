@@ -6,7 +6,7 @@ A aplicação gera uma estrutura de ramificações progressivamente menores, exp
 
 ## 📸 Demonstração
 
-![Árvore Fractal](assets/arvore_fractal.png)
+![Árvore Fractal](assets/Árvore_Fractal.png)
 
 ## 🎯 Objetivo
 
